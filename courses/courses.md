@@ -114,17 +114,17 @@
     * Wordpress
   * Bash
 
-  * [Algorithm Academy](https://www.youtube.com/c/algorithmCoding/featured)
-    * Javascript
-      * React.js
-      * Vue.js
-        * Pinia
-      * Gulp.js
-      * Nodejs
-        * express.js
-    * Go
-    * HTML/CSS & HTML5/CSS3
-    * Python
-      * Flask
-    * Databases
-    * Github & Git
+* [Algorithm Academy](https://www.youtube.com/c/algorithmCoding/featured)
+  * Javascript
+    * React.js
+    * Vue.js
+      * Pinia
+    * Gulp.js
+    * Nodejs
+      * express.js
+  * Go
+  * HTML/CSS & HTML5/CSS3
+  * Python
+    * Flask
+  * Databases
+  * Github & Git
